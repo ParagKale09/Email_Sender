@@ -17,9 +17,9 @@ def index():
 @app.route('/send')
 def emailsend():
     #your gmail credentials here
-    GMAIL_ID = ' paragkale49@gmail.com'
-    #GMAIL_PWD = 'uhpwzibvihaezxbs'
-    GMAIL_PWD = 'eixneywqwfttwksw' 
+    GMAIL_ID = ' yourmail@gmail.com'
+
+    GMAIL_PWD = 'mail_generated_pass' 
 
 
     if __name__ == "__main__":
