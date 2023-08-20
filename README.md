@@ -1,3 +1,5 @@
+-----------------------------------------------<b> Readme file will be updated soon</b> -----------------------------------------
+• This is the previous version of the readme file but the code above is updated with the new features like file, image, and message uploading option.
 Hello! <br/>
 • This is an Automatic email-sending tool that sends emails by scanning the Excel sheet if today's date and action date in Excel match. <br/>
 • Specifically, the action date here is the birth date of the alumni, So when we run our program and if today's date is the birth date of the alumni then greet mail 
