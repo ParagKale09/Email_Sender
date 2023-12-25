@@ -70,9 +70,9 @@ def upload_file():
 @app.route('/send')
 def emailsend():
     #your gmail credentials here
-    GMAIL_ID = ' paragkale49@gmail.com'
+    GMAIL_ID = 'your_mail'
     #GMAIL_PWD = 'uhpwzibvihaezxbs'
-    GMAIL_PWD = 'eixneywqwfttwksw' 
+    GMAIL_PWD = 'your_password' 
 
 
     if __name__ == "__main__":
